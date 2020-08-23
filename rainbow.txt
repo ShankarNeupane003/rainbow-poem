@@ -7,8 +7,5 @@ black
 green
 yellow
 red
-light blue 
-light green
-light yellow
  these are the colours of a rainbow and the unicorn
  ponnie
